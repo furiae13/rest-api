@@ -1,11 +1,13 @@
 {
-  "require": {
-    "furiae13/rest-api":"dev-master@dev"
-  },
-  "repositories": [
-    {
-       "type": "vcs",
-       "url": "https://github.com/furiae13/rest-api" 
-    }
-  ]
+    "name": "furiae13/rest-api",
+    "description": "Rest Api",
+    "minimum-stability": "stable",
+    "require": {
+        "furiae13/rest-api":"dev-master@dev"    },
+    "repositories": [
+  {
+     "type": "vcs",
+     "url": "https://github.com/furiae13/rest-api" 
+  }
+    ]
 }
