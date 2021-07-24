@@ -11,13 +11,6 @@ composer install
 php yii migrate
 ~~~
 
-Now you should be able to access the application through the following URL, assuming `basic` is the directory
-directly under the Web root.
-
-~~~
-http://localhost/basic/web/
-~~~
-
 ### Database
 
 Edit the file `config/db.php` with real data, for example:
