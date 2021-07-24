@@ -35,7 +35,12 @@ return [
 
 TESTING
 -------
+
+~~~
+
 GET /user/ - get all users
 POST /user/signup - create new user  (email, password)
 POST /user/login  - (email, password)
 POST /user-info/set  - set user info (first_name, last_name, phone_number)
+
+~~~
